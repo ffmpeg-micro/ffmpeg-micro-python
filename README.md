@@ -1,6 +1,6 @@
 # FFmpeg Micro for Python
 
-The official Python client for the [FFmpeg Micro](https://www.ffmpeg-micro.com) API. FFmpeg Micro runs FFmpeg in the cloud: transcode and compress video, stitch clips, add text overlays, extract audio, generate thumbnails and transcribe speech through one API. There are no servers to manage and no FFmpeg builds to maintain.
+The official Python client for [FFmpeg Micro: The FFmpeg API](https://www.ffmpeg-micro.com). FFmpeg Micro runs FFmpeg in the cloud: transcode and compress video, stitch clips, add text overlays, extract audio, generate thumbnails and transcribe speech through one API. There are no servers to manage and no FFmpeg builds to maintain.
 
 ```bash
 pip install ffmpeg-micro

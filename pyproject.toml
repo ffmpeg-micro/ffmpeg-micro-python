@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ffmpeg-micro"
-version = "0.1.0"
+version = "0.1.1"
 description = "Official Python client for the FFmpeg Micro API: video transcoding, transcription and FFmpeg in the cloud."
 readme = "README.md"
 license = { text = "MIT" }
@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://www.ffmpeg-micro.com"
+"FFmpeg Micro: The FFmpeg API" = "https://www.ffmpeg-micro.com"
 Documentation = "https://www.ffmpeg-micro.com/docs"
 "API spec" = "https://api.ffmpeg-micro.com/openapi.yaml"
 Source = "https://github.com/ffmpeg-micro/ffmpeg-micro-python"
