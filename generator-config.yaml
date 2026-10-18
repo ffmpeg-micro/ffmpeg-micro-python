@@ -1,0 +1,5 @@
+packageName: ffmpeg_micro
+projectName: ffmpeg-micro
+packageVersion: 0.1.0
+packageUrl: https://github.com/ffmpeg-micro/ffmpeg-micro-python
+library: urllib3
